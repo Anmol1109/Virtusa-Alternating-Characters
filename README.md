@@ -1,1 +1,1 @@
-# Virtusa-Alternating-Chaaracters
+# Virtusa-Alternating-Characters
